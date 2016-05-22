@@ -5,3 +5,4 @@
 4.0 master test1
 proxy check!
 5.0
+6.0 clone
